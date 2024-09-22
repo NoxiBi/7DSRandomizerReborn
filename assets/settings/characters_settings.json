@@ -208,6 +208,13 @@
         "grade": "ssr",
         "race": "unknown",
         "attribute": "speed"
+    },    
+    {
+        "name": "Camila Guardian Deity [Hybrid Instinct]",
+        "images": "./assets/images/[Hybrid Instinct] Guardian Deity Camila.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Chandler Mage [Pacifier Fiend]",
@@ -250,6 +257,13 @@
         "grade": "ssr",
         "race": "demon",
         "attribute": "speed"
+    },
+    {
+        "name": "Data Zahard [Secret Floor]",
+        "images": "./assets/images/[Secret Floor] Data Zahard.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
     },
     {
         "name": "Deathpierce Holy Knight [The Pleiades of the Azure Sky]",
@@ -1088,7 +1102,7 @@
         "name": "Jenna Lead Vocalist [MAVE]",
         "images": "./assets/images/[MAVE] Lead Vocalist Jenna.png",
         "grade": "ssr",
-        "race": "human",
+        "race": "unknown",
         "attribute": "speed"
     },
     {
