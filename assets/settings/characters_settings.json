@@ -1582,6 +1582,13 @@
         "attribute": "strength"
     },
     {
+        "name": "Migurdia Roxy [King-Class Water Mage]",
+        "images": "./assets/images/[King-Class Water Mage] Roxy Migurdia.png",
+        "grade": "ssr",
+        "race": "unknown",
+        "attribute": "hp"
+    },
+    {
         "name": "Mikasa Ackermann [Greatest Soldier]",
         "images": "./assets/images/[Greatest Soldier] Mikasa Ackermann.png",
         "grade": "ssr",
@@ -1757,13 +1764,6 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
-    },
-    {
-        "name": "Roxy Migurdia [King-Class Water Mage]",
-        "images": "./assets/images/[King-Class Water Mage] Roxy Migurdia.png",
-        "grade": "ssr",
-        "race": "unknown",
-        "attribute": "hp"
     },
     {
         "name": "Rudeus Greyrat [Otherworldly Reincarnation]",
