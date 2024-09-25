@@ -1682,6 +1682,13 @@
         "attribute": "hp"
     },
     {
+        "name": "Percival Small Hero[Unknown Magic]",
+        "images": "./assets/images/[Unknown Magic] Small Hero Percival.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "light"
+    },
+    {
         "name": "Raphtalia [Naofumi's Sword]",
         "images": "./assets/images/[Naofumi's Sword] Raphtalia.png",
         "grade": "ssr",
