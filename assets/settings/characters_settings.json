@@ -728,6 +728,13 @@
         "attribute": "speed"
     },
     {
+        "name": "Estarossa Berserk [Holy War Nightmare]",
+        "images": "./assets/images/[Holy War Nightmare] Berserk Estarossa.png",
+        "grade": "ssr",
+        "race": "demon",
+        "attribute": "strength"
+    },
+    {
         "name": "Filo [Queen's Successor]",
         "images": "./assets/images/[Queen's Successor] Filo.png",
         "grade": "ssr",
