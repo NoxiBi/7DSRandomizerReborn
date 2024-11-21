@@ -1253,6 +1253,20 @@
         "attribute": "strength"
     },
     {
+        "name": "Lancelot Young KnightH [Hero’s Bloodline]",
+        "images": "./assets/images/[Hero’s Bloodline] Young Knight LancelotA.png",
+        "grade": "ur",
+        "race": "human",
+        "attribute": "speed"
+    },
+    {
+        "name": "Lancelot Young KnightF [Hero’s Bloodline]",
+        "images": "./assets/images/[Hero’s Bloodline] Young Knight LancelotB.png",
+        "grade": "ur",
+        "race": "fairy",
+        "attribute": "speed"
+    },
+    {
         "name": "Iori Yagami [KOF '98]",
         "images": "./assets/images/[KOF '98] Iori Yagami.png",
         "grade": "ssr",
@@ -1874,6 +1888,13 @@
         "grade": "ssr",
         "race": "human",
         "attribute": "strength"
+    },
+    {
+        "name": "Sigurd Prince [Curse of Greed]",
+        "images": "./assets/images/[Curse of Greed] Prince Sigurd.png",
+        "grade": "ssr",
+        "race": "human",
+        "attribute": "hp"
     },
     {
         "name": "Simon Holy Knight [Roars of Dawn]",
